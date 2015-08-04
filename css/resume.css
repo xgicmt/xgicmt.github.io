@@ -1,0 +1,74 @@
+p{
+	margin: .5em 0;
+}
+
+.container{
+	width: 1000px;
+	margin: auto;
+	font-family: 'Mako', serif;
+	font-size: 14px;
+	position:relative;
+}
+.leftColumn{
+	width: 250px;
+	height: 100vh;
+	padding: 10px;
+}
+.rightColumn{
+	width:750px;
+	padding: 10px;
+    position:absolute;
+    left:250px;
+    top:0;
+}
+.skillSet h3{
+	font-size: 18px;
+	color:green;
+}
+.skillSet p{
+	margin-left: 10px;
+	margin-bottom:10px;
+}
+.titleHead{
+	font-size:20px;
+	text-align:center;
+	margin-bottom:25px;
+    color: #999;
+    letter-spacing:.05em;
+}
+.titleHead h1{
+	font-size:24px;
+    margin-bottom:5px;
+}
+.synopsis{
+	background:#eee;
+	width:80%;
+    margin:auto;
+	padding:1px 10px;
+	border-radius:10px;
+	margin-bottom:25px;
+	border:1px solid black;
+	box-shadow:5px 5px 10px #000;
+}
+.portSynopsis{
+	margin-bottom:25px;
+	padding:1px 10px;
+	border-radius: 10px;
+	border:1px solid black;
+	box-shadow:5px 5px 10px #000;
+}
+.portList{
+	margin-bottom:25px;
+	margin-left:10px;
+	margin-top:10px;
+
+}
+.portfolio li a{
+	font-size:18px;
+	color:green
+}
+
+/*font-family: 'Martel', serif;
+	background-image:url('http://www.colorupinteractive.com/images/grainyTexturecss3beziervurveNet.png');
+	background-repeat:repeat;
+*/
